@@ -6,6 +6,17 @@
 
 En esta práctica se realiza la instalación y configuración de un CMS WordPress en un servidor Ubuntu Server, utilizando una pila LAMP formada por Apache, MariaDB y PHP. La administración del servidor se realiza de forma remota mediante SSH.
 
+## Antes de comenzar: "El servidor"
+
+Antes de comenzar con la instalación de WordPress, se comprueban los requisitos necesarios para el servidor. En este caso se utilizará una máquina virtual con Ubuntu Server 24.04, Apache2, PHP 8.3 y MariaDB 10.11, además de 8 GB de RAM, 50 GB de almacenamiento y 6 núcleos.
+
+<p align="center">
+<img src="capturas/22.png" alt="Requisitos y configuración del servidor">
+<br>
+<em>Requisitos y configuración del servidor.</em>
+</p>
+
+
 ## Instalación y configuración de WordPress
 
 A continuación se muestran los pasos realizados durante la instalación y configuración del servidor y de WordPress.
